@@ -1,5 +1,3 @@
-# AdMob
-google.com, pub-3031011439814812, DIRECT, f08c47fec0942fa0
 # KLIPY Start
 klipy.co, 7115583, DIRECT
 admixer.net, 191fda99-2fb4-452b-a444-db82b2817832, DIRECT
@@ -307,4 +305,3 @@ lemmatechnologies.com, 772, RESELLER, 7829010c5bebd1fb
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
 appi-fy.ai, AFINT101, RESELLER
 # KLIPY End
-
